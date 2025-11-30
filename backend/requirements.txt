@@ -1,0 +1,8 @@
+fastapi
+pandas
+uvicorn
+python-multipart
+matplotlib
+seaborn
+google-generativeai
+python-dotenv
